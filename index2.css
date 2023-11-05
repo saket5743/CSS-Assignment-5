@@ -1,0 +1,110 @@
+body {
+  background-color: yellow;
+}
+
+.p1 {
+  height: 100px;
+  width: 100px;
+  margin-left: 600px;
+  background-color: yellowgreen;
+  transition: 3s;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 1s;
+}
+.p1:hover {
+  background-color: brown;
+  width: 300px;
+}
+
+.p2 {
+  height: 100px;
+  width: 100px;
+  margin-left: 600px;
+  background-color: yellowgreen;
+  transition: 3s;
+  transition-duration: 3s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 2s;
+}
+.p2:hover {
+  background-color: brown;
+  height: 300px;
+  width: 300px;
+}
+
+.p3 {
+  height: 100px;
+  width: 100px;
+  margin-left: 600px;
+  background-color: yellowgreen;
+  transition: 3s;
+  transition-duration: 3s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 2s;
+}
+.p3:hover {
+  background-color: brown;
+  width: 300px;
+}
+
+.p4 {
+  height: 100px;
+  width: 100px;
+  margin-left: 600px;
+  background-color: yellowgreen;
+  transition: 3s;
+  transition-duration: 3s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 2s;
+}
+.p4:hover {
+  background-color: brown;
+  width: 300px;
+}
+
+.p5 {
+  height: 100px;
+  width: 100px;
+  margin-left: 600px;
+  background-color: yellowgreen;
+  transition: 3s;
+  transition-duration: 2s;
+  transition-timing-function: ease-in;
+  transition-delay: 2s;
+}
+.p5:hover {
+  background-color: brown;
+  width: 300px;
+}
+
+.p6 {
+  height: 100px;
+  width: 100px;
+  margin-left: 600px;
+  background-color: yellowgreen;
+  transition: 3s;
+  transition-duration: 3s;
+  transition-timing-function: ease;
+  transition-delay: 2s;
+}
+.p6:hover {
+  background-color: brown;
+
+  width: 300px;
+}
+
+.p7 {
+  height: 100px;
+  width: 100px;
+  margin-left: 600px;
+  background-color: yellowgreen;
+  transition: 3s;
+  transition-duration: 2s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 1s;
+}
+.p7:hover {
+  background-color: brown;
+  width: 300px;
+}

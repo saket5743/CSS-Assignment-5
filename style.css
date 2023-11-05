@@ -1,0 +1,251 @@
+/* index1 CSS */
+
+body {
+  background-color: yellow;
+}
+
+.aa {
+  height: 70px;
+  width: 70px;
+  background-color: lightslategray;
+  display: inline-block;
+  margin-left: 500px;
+  animation-name: aa;
+  animation-duration: 3s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+
+@keyframes aa {
+  100% {
+    transform: skewX(10deg);
+  }
+  50% {
+    transform: skewY(-10deg);
+  }
+}
+
+.ab {
+  height: 70px;
+  width: 70px;
+  background-color: lightslategray;
+  display: inline-block;
+  margin-left: 55px;
+  animation-name: ab;
+  animation-duration: 3s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+
+@keyframes ab {
+  100% {
+    transform: skewX(10deg);
+  }
+  50% {
+    transform: skewY(-10deg);
+  }
+}
+
+.ac {
+  height: 70px;
+  width: 70px;
+  background-color: lightslategray;
+  display: inline-block;
+  margin-left: 55px;
+  animation-name: ac;
+  animation-duration: 3s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+
+@keyframes ac {
+  100% {
+    transform: skewX(10deg);
+  }
+  50% {
+    transform: skewY(-10deg);
+  }
+}
+
+.ba {
+  height: 70px;
+  width: 70px;
+  background-color: lightpink;
+  display: inline-block;
+  margin-left: 500px;
+  animation-name: ba;
+  animation-duration: 3s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+
+@keyframes ba {
+  100% {
+    transform: skew(20deg);
+  }
+  50% {
+    transform: skew(-30deg);
+  }
+}
+
+.bb {
+  height: 70px;
+  width: 70px;
+  background-color: lightpink;
+  display: inline-block;
+  margin-left: 55px;
+  animation-name: bb;
+  animation-duration: 3s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+
+@keyframes bb {
+  100% {
+    transform: skew(20deg);
+  }
+  50% {
+    transform: skew(-30deg);
+  }
+}
+
+.bc {
+  height: 70px;
+  width: 70px;
+  background-color: lightpink;
+  display: inline-block;
+  margin-left: 55px;
+  animation-name: bc;
+  animation-duration: 3s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+
+@keyframes bc {
+  100% {
+    transform: skew(20deg);
+  }
+  50% {
+    transform: skew(-30deg);
+  }
+}
+
+.ca {
+  height: 70px;
+  width: 70px;
+  background-color: lightblue;
+  display: inline-block;
+  margin-left: 500px;
+  animation-name: ca;
+  animation-duration: 4s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+
+@keyframes ca {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.cb {
+  height: 70px;
+  width: 70px;
+  background-color: lightblue;
+  display: inline-block;
+  margin-left: 55px;
+  animation-name: cb;
+  animation-duration: 4s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+
+@keyframes cb {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.cc {
+  height: 70px;
+  width: 70px;
+  background-color: lightblue;
+  display: inline-block;
+  margin-left: 55px;
+  animation-name: cc;
+  animation-duration: 4s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+
+@keyframes cc {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.da {
+  height: 70px;
+  width: 70px;
+  background-color: lightblue;
+  display: inline-block;
+  margin-left: 500px;
+  animation-name: da;
+  animation-duration: 4s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+@keyframes da {
+  100% {
+    transform: scaleY(0.6);
+  }
+}
+
+.db {
+  height: 70px;
+  width: 70px;
+  background-color: maroon;
+  display: inline-block;
+  margin-left: 55px;
+  animation-name: db;
+  animation-duration: 4s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+@keyframes db {
+  100% {
+    transform: scaleX(0.4);
+  }
+}
+
+.dc {
+  height: 70px;
+  width: 70px;
+  background-color: green;
+  display: inline-block;
+  margin-left: 55px;
+  animation-name: dc;
+  animation-duration: 4s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+@keyframes dc {
+  100% {
+    transform: rotate(45deg);
+  }
+  50% {
+    transform: rotate(-45deg);
+  }
+}
+
+.A1 {
+  margin-top: 60px;
+}
+
+.A2 {
+  margin-top: 60px;
+}
+
+.A3 {
+  margin-top: 60px;
+}
